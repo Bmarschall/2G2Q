@@ -13,6 +13,6 @@ TL : Ben Marschall
   GitHub: BMarschall
   Email : bm104817@ohio.edu
 
-RM : Kyle Willis
+QA : Kyle Willis
   GitHub: KyleWillis21
   Email : kw586717@ohio.edu
