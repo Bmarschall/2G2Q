@@ -1,4 +1,4 @@
-# 2G2Q
+# 2 GIT 2 QUIT
 CS4560 Design Project
 
 RM : Dom Benintendi
